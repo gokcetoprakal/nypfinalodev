@@ -1,0 +1,17 @@
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\bin\Debug\otelUygulamasiFinal.exe.config
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\bin\Debug\otelUygulamasiFinal.exe
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\bin\Debug\otelUygulamasiFinal.pdb
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\bin\Debug\MySql.Data.dll
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\bin\Debug\System.Memory.dll
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\bin\Debug\System.Buffers.dll
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\bin\Debug\MySql.Data.xml
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\obj\Debug\otelUygulamasiFinal.csproj.AssemblyReference.cache
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\obj\Debug\otelUygulamasiFinal.form1.resources
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\obj\Debug\otelUygulamasiFinal.Properties.Resources.resources
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\obj\Debug\otelUygulamasiFinal.csproj.GenerateResource.cache
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\obj\Debug\otelUygulamasiFinal.csproj.CoreCompileInputs.cache
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\obj\Debug\otelUygu.098B997A.Up2Date
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\obj\Debug\otelUygulamasiFinal.exe
+C:\Users\GKCE\Desktop\nyp final\otelUygulamasiFinal\otelUygulamasiFinal\obj\Debug\otelUygulamasiFinal.pdb
